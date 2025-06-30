@@ -1,0 +1,110 @@
+{
+  "nav": {
+    "home": "ቤት",
+    "map": "ካርታ",
+    "ride": "ጉዞ",
+    "wallet": "ኪስ ቦርሳ",
+    "profile": "መገለጫ"
+  },
+  "home": {
+    "goodMorning": "እንደምን አደሩ",
+    "goodAfternoon": "እንደምን ዋሉ",
+    "goodEvening": "እንደምን አመሹ",
+    "welcomeBack": "ወደ ቢስክሌት እንኳን ደህና መጡ",
+    "servingAddis": "አዲስ አበባን እናገለግላለን",
+    "quickActions": "ፈጣን እርምጃዎች",
+    "findBike": "ብስክሌት ፈልግ",
+    "findBikeSubtitle": "በአቅራቢያ ያሉ ብስክሌቶች",
+    "scanQR": "QR ኮድ ስካን ያድርጉ",
+    "scanQRSubtitle": "ብስክሌት በፍጥነት ክፈት",
+    "tripHistory": "የጉዞ ታሪክ",
+    "tripHistorySubtitle": "ያለፉ ጉዞዎች ይመልከቱ",
+    "recentActivity": "የቅርብ ጊዜ እንቅስቃሴ",
+    "popularLocations": "ተወዳጅ ቦታዎች"
+  },
+  "map": {
+    "searchPlaceholder": "ቦታዎችን ይፈልጉ...",
+    "bikesAvailable": "ብስክሌቶች አሉ",
+    "filterTitle": "ብስክሌቶችን ማጣሪያ",
+    "batteryLevel": "ዝቅተኛ ባትሪ",
+    "maxDistance": "ከፍተኛ ርቀት",
+    "bikeType": "የብስክሌት ዓይነት"
+  },
+  "trip": {
+    "activeRide": "ንቁ ጉዞ",
+    "elapsedTime": "የተወሰደ ጊዜ",
+    "unknownLocation": "ያልታወቀ ቦታ",
+    "tapToView": "ዝርዝሮችን ለማየት ይንኩ",
+    "startRide": "ጉዞ ጀምር",
+    "endRide": "ጉዞ አጠናቅቅ",
+    "pauseRide": "ጉዞ አቁም",
+    "resumeRide": "ጉዞ ቀጥል"
+  },
+  "wallet": {
+    "balance": "የኪስ ቦርሳ ሂሳብ",
+    "topUp": "ሙላ",
+    "history": "የግብይት ታሪክ",
+    "paymentMethods": "የክፍያ ዘዴዎች"
+  },
+  "profile": {
+    "settings": "ቅንብሮች",
+    "language": "ቋንቋ",
+    "notifications": "ማሳወቂያዎች",
+    "help": "እርዳታ እና ድጋፍ",
+    "logout": "ውጣ"
+  },
+  "auth": {
+    "welcome": "ወደ ቢስክሌት እንኳን ደህና መጡ",
+    "subtitle": "የኢትዮጵያ ብስክሌት መጋራት",
+    "login": "ግባ",
+    "register": "ተመዝገብ",
+    "email": "ኢሜይል",
+    "password": "የይለፍ ቃል",
+    "confirmPassword": "የይለፍ ቃል አረጋግጥ",
+    "fullName": "ሙሉ ስም",
+    "phone": "ስልክ ቁጥር",
+    "forgotPassword": "የይለፍ ቃል ረሳህ?",
+    "dontHaveAccount": "መለያ የለህም?",
+    "alreadyHaveAccount": "መለያ አለህ?"
+  },
+  "payment": {
+    "telebirr": "ቴሌብር",
+    "cbeBirr": "ሲቢኢ ብር",
+    "dashenBank": "ዳሽን ባንክ",
+    "awashBank": "አዋሽ ባንክ",
+    "cash": "ጥሬ ገንዘብ",
+    "wallet": "ኪስ ቦርሳ",
+    "selectMethod": "የክፍያ ዘዴ ይምረጡ",
+    "enterAmount": "መጠን ያስገቡ",
+    "confirm": "ክፍያ አረጋግጥ"
+  },
+  "common": {
+    "seeAll": "ሁሉንም ይመልከቱ",
+    "loading": "በመጫን ላይ...",
+    "error": "ስህተት",
+    "success": "ተሳክቷል",
+    "cancel": "ሰርዝ",
+    "confirm": "አረጋግጥ",
+    "save": "አስቀምጥ",
+    "edit": "አርትዕ",
+    "delete": "ሰርዝ",
+    "retry": "እንደገና ሞክር",
+    "close": "ዝጋ"
+  },
+  "locations": {
+    "meskelSquare": "መስቀል አደባባይ",
+    "boleAirport": "ቦሌ አየር ማረፊያ",
+    "piazza": "ፒያሳ",
+    "mexicoSquare": "ሜክሲኮ አደባባይ",
+    "mercato": "መርካቶ",
+    "unityPark": "አንድነት ፓርክ"
+  },
+  "errors": {
+    "networkError": "የኔትወርክ ስህተት። ግንኙነትዎን ይፈትሹ።",
+    "locationPermission": "በአቅራቢያ ያሉ ብስክሌቶችን ለማግኘት የቦታ ፈቃድ ያስፈልጋል።",
+    "cameraPermission": "QR ኮዶችን ለመቃኘት የካሜራ ፈቃድ ያስፈልጋል።",
+    "bikeNotAvailable": "ይህ ብስክሌት ከአሁን በኋላ አይገኝም።",
+    "paymentFailed": "ክፍያ አልተሳካም። እባክዎ እንደገና ይሞክሩ።",
+    "tripStartFailed": "ጉዞ መጀመር አልተሳካም። እባክዎ እንደገና ይሞክሩ።"
+  }
+}

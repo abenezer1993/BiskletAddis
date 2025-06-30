@@ -1,0 +1,110 @@
+{
+  "nav": {
+    "home": "Mana",
+    "map": "Kaarta",
+    "ride": "Imala",
+    "wallet": "Korojoo",
+    "profile": "Ibsa"
+  },
+  "home": {
+    "goodMorning": "Akkam Bultan",
+    "goodAfternoon": "Akkam Guyyaa",
+    "goodEvening": "Akkam Galgala",
+    "welcomeBack": "Gara Biskileet Baga Nagaan Dhuftan",
+    "servingAddis": "Finfinnee Tajaajilaa",
+    "quickActions": "Gochaalee Saffisaa",
+    "findBike": "Biskileetii Barbaadi",
+    "findBikeSubtitle": "Biskileetota dhiyoo jiran",
+    "scanQR": "QR Koodii Skaanii",
+    "scanQRSubtitle": "Biskileetii dafanii bani",
+    "tripHistory": "Seenaa Imalaa",
+    "tripHistorySubtitle": "Imala darban ilaali",
+    "recentActivity": "Sochii Dhiyoo",
+    "popularLocations": "Bakkoota Jaallatamoo"
+  },
+  "map": {
+    "searchPlaceholder": "Bakkoota barbaadi...",
+    "bikesAvailable": "biskileetota jiru",
+    "filterTitle": "Biskileetota Calaluu",
+    "batteryLevel": "Baatirii Gadi Aanaa",
+    "maxDistance": "Fageenya Olaanaa",
+    "bikeType": "Gosa Biskileetii"
+  },
+  "trip": {
+    "activeRide": "Imala Sochii",
+    "elapsedTime": "Yeroo Darbe",
+    "unknownLocation": "Bakka Hin Beekamne",
+    "tapToView": "Bal'ina ilaaluuf tuqi",
+    "startRide": "Imala Jalqabi",
+    "endRide": "Imala Xumuri",
+    "pauseRide": "Imala Dhaabi",
+    "resumeRide": "Imala Itti Fufi"
+  },
+  "wallet": {
+    "balance": "Baalaansii Korojoo",
+    "topUp": "Guuti",
+    "history": "Seenaa Daldalaa",
+    "paymentMethods": "Mala Kaffaltii"
+  },
+  "profile": {
+    "settings": "Qindaa'ina",
+    "language": "Afaan",
+    "notifications": "Beeksisa",
+    "help": "Gargaarsa",
+    "logout": "Ba'i"
+  },
+  "auth": {
+    "welcome": "Gara Biskileet Baga Nagaan Dhuftan",
+    "subtitle": "Biskileet Qooddachuu Itoophiyaa",
+    "login": "Seeni",
+    "register": "Galmaa'i",
+    "email": "Imeelii",
+    "password": "Jecha Icciitii",
+    "confirmPassword": "Jecha Icciitii Mirkaneessi",
+    "fullName": "Maqaa Guutuu",
+    "phone": "Lakkoofsa Bilbilaa",
+    "forgotPassword": "Jecha Icciitii Irraanfatte?",
+    "dontHaveAccount": "Herrega hin qabdu?",
+    "alreadyHaveAccount": "Herrega qabda?"
+  },
+  "payment": {
+    "telebirr": "Teelebirr",
+    "cbeBirr": "CBE Birr",
+    "dashenBank": "Baankii Daasheen",
+    "awashBank": "Baankii Awaash",
+    "cash": "Maallaqa Harkaa",
+    "wallet": "Korojoo",
+    "selectMethod": "Mala Kaffaltii Filachuu",
+    "enterAmount": "Hamma Galchi",
+    "confirm": "Kaffaltii Mirkaneessi"
+  },
+  "common": {
+    "seeAll": "Hunda Ilaali",
+    "loading": "Fe'aa jira...",
+    "error": "Dogongora",
+    "success": "Milkaa'e",
+    "cancel": "Dhiisi",
+    "confirm": "Mirkaneessi",
+    "save": "Olkaa'i",
+    "edit": "Gulaalii",
+    "delete": "Balleessi",
+    "retry": "Irra Deebi'ii Yaali",
+    "close": "Cufii"
+  },
+  "locations": {
+    "meskelSquare": "Oromtii Masqalaa",
+    "boleAirport": "Buufata Xayyaaraatii Boolee",
+    "piazza": "Piyaazaa",
+    "mexicoSquare": "Oromtii Meksikoo",
+    "mercato": "Markaatoo",
+    "unityPark": "Paarkii Tokkummaa"
+  },
+  "errors": {
+    "networkError": "Dogongora networkii. Walitti dhufeenya kee mirkaneessi.",
+    "locationPermission": "Biskileetota dhiyoo jiran argachuuf hayyama bakka barbaachisa.",
+    "cameraPermission": "QR koodii skaaniisuuf hayyama kaameraa barbaachisa.",
+    "bikeNotAvailable": "Biskileetiin kun siʼachi hin argamu.",
+    "paymentFailed": "Kaffaltiin kufate. Maaloo irra deebiʼii yaali.",
+    "tripStartFailed": "Imala jalqabuun kufate. Maaloo irra deebiʼii yaali."
+  }
+}

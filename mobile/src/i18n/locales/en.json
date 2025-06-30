@@ -1,0 +1,110 @@
+{
+  "nav": {
+    "home": "Home",
+    "map": "Map",
+    "ride": "Ride",
+    "wallet": "Wallet",
+    "profile": "Profile"
+  },
+  "home": {
+    "goodMorning": "Good Morning",
+    "goodAfternoon": "Good Afternoon",
+    "goodEvening": "Good Evening",
+    "welcomeBack": "Welcome back to Bisklet",
+    "servingAddis": "Serving Addis Ababa",
+    "quickActions": "Quick Actions",
+    "findBike": "Find a Bike",
+    "findBikeSubtitle": "Locate nearby bikes",
+    "scanQR": "Scan QR Code",
+    "scanQRSubtitle": "Unlock bike instantly",
+    "tripHistory": "Trip History",
+    "tripHistorySubtitle": "View past rides",
+    "recentActivity": "Recent Activity",
+    "popularLocations": "Popular Locations"
+  },
+  "map": {
+    "searchPlaceholder": "Search locations...",
+    "bikesAvailable": "bikes available",
+    "filterTitle": "Filter Bikes",
+    "batteryLevel": "Minimum Battery",
+    "maxDistance": "Maximum Distance",
+    "bikeType": "Bike Type"
+  },
+  "trip": {
+    "activeRide": "Active Ride",
+    "elapsedTime": "Elapsed Time",
+    "unknownLocation": "Unknown Location",
+    "tapToView": "Tap to view details",
+    "startRide": "Start Ride",
+    "endRide": "End Ride",
+    "pauseRide": "Pause Ride",
+    "resumeRide": "Resume Ride"
+  },
+  "wallet": {
+    "balance": "Wallet Balance",
+    "topUp": "Top Up",
+    "history": "Transaction History",
+    "paymentMethods": "Payment Methods"
+  },
+  "profile": {
+    "settings": "Settings",
+    "language": "Language",
+    "notifications": "Notifications",
+    "help": "Help & Support",
+    "logout": "Logout"
+  },
+  "auth": {
+    "welcome": "Welcome to Bisklet",
+    "subtitle": "Ethiopian Bike Sharing",
+    "login": "Login",
+    "register": "Register",
+    "email": "Email",
+    "password": "Password",
+    "confirmPassword": "Confirm Password",
+    "fullName": "Full Name",
+    "phone": "Phone Number",
+    "forgotPassword": "Forgot Password?",
+    "dontHaveAccount": "Don't have an account?",
+    "alreadyHaveAccount": "Already have an account?"
+  },
+  "payment": {
+    "telebirr": "Telebirr",
+    "cbeBirr": "CBE Birr",
+    "dashenBank": "Dashen Bank",
+    "awashBank": "Awash Bank",
+    "cash": "Cash",
+    "wallet": "Wallet",
+    "selectMethod": "Select Payment Method",
+    "enterAmount": "Enter Amount",
+    "confirm": "Confirm Payment"
+  },
+  "common": {
+    "seeAll": "See All",
+    "loading": "Loading...",
+    "error": "Error",
+    "success": "Success",
+    "cancel": "Cancel",
+    "confirm": "Confirm",
+    "save": "Save",
+    "edit": "Edit",
+    "delete": "Delete",
+    "retry": "Retry",
+    "close": "Close"
+  },
+  "locations": {
+    "meskelSquare": "Meskel Square",
+    "boleAirport": "Bole Airport",
+    "piazza": "Piazza",
+    "mexicoSquare": "Mexico Square",
+    "mercato": "Mercato",
+    "unityPark": "Unity Park"
+  },
+  "errors": {
+    "networkError": "Network error. Please check your connection.",
+    "locationPermission": "Location permission is required to find nearby bikes.",
+    "cameraPermission": "Camera permission is required to scan QR codes.",
+    "bikeNotAvailable": "This bike is no longer available.",
+    "paymentFailed": "Payment failed. Please try again.",
+    "tripStartFailed": "Failed to start trip. Please try again."
+  }
+}
