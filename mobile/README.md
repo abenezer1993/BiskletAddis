@@ -93,47 +93,40 @@ npm install -g react-native-cli
 
 # For iOS development
 # Install Xcode and CocoaPods
+### Quick Start Commands
 
-# For Android development
-# Install Android Studio and SDK
-```
-
-### **Installation**
+1. **Install Dependencies:**
 ```bash
-# Clone the repository
-git clone <repository-url>
-cd mobile
-
-# Install dependencies
 npm install
-
-# iOS setup
-cd ios && pod install && cd ..
-
-# Android setup (if needed)
-# Open android folder in Android Studio
 ```
 
-### **Environment Setup**
+2. **Start Metro Bundler:**
 ```bash
-# Create .env file
-cp .env.example .env
-
-# Add your Supabase credentials
-SUPABASE_URL=your_supabase_project_url
-SUPABASE_ANON_KEY=your_supabase_anon_key
-```
-
-### **Running the App**
-```bash
-# Start Metro bundler
+npm run metro
+# OR
 npm start
+```
 
-# Run on Android
+3. **Run on Android:**
+```bash
+# In a new terminal
 npm run android
+```
 
-# Run on iOS
-npm run ios
+### Troubleshooting
+
+If you encounter issues:
+
+```bash
+# Clean cache and restart
+npm run reset-cache
+
+# Clean build
+npm run clean
+
+# Reinstall dependencies
+rm -rf node_modules
+npm install
 ```
 
 ## 🔧 **Configuration**
